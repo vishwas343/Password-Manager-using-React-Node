@@ -145,8 +145,8 @@ Feel free to fork this repository, raise issues, or contribute via pull requests
 This project is open-source and available under the MIT License. See the LICENSE file for details.
 
 ### Author
-- [vishwas343] - Developer and Designer
-- Connect with me on [LinkedIN](linkedin.com/in/vishwas-bhatia-5a0789244) | GitHub
+- [vishwas343](https://github.com/vishwas343/) - Developer and Designer
+- Connect with me on [LinkedIN](linkedin.com/in/vishwas-bhatia-5a0789244) | [GITHUB](https://github.com/vishwas343/)
 
 
 ### Special thanks to:
